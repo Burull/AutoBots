@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adf7083a-90c1-47d8-a5d0-e524f17b81d7" name="Changes" comment="" />
+    <list default="true" id="adf7083a-90c1-47d8-a5d0-e524f17b81d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Apload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,7 @@
     "Application.StreamApiLesson.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Cherry-picking in Bysya",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/burulmairambekova/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java"
   }
