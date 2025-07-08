@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adf7083a-90c1-47d8-a5d0-e524f17b81d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Apload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Register/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="adf7083a-90c1-47d8-a5d0-e524f17b81d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,18 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "Application.LambdaLesson.executor": "Run",
-    "Application.StreamApiLesson.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/burulmairambekova/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiLesson.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/burulmairambekova/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAplication.Demo" />
